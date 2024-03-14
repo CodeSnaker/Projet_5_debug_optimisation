@@ -5557,6 +5557,8 @@ textarea.form-control-lg {
   position: relative;
   flex: 1 1 auto;
   padding: 1rem;
+  display: flex;
+  justify-content: center;
 }
 
 .modal-footer {
